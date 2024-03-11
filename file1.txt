@@ -4,3 +4,4 @@ from master 3rd line
 from feature2 4th line
 creating line5 from f2
 new line 6
+creting line6 from f2
