@@ -1,3 +1,4 @@
 record1
 record from feature1
 from master 3rd line
+from feature2 4th line
